@@ -1,0 +1,1 @@
+Remove email verification for bugfix (minor) - Implemented a new feature to enhance email verification.
