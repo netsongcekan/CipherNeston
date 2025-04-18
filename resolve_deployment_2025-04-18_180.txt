@@ -1,0 +1,1 @@
+Resolve deployment process for middleware (legacy)
