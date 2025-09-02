@@ -1,0 +1,1 @@
+Refactor email verification for session (urgent) - Implemented a new feature to enhance email verification.
