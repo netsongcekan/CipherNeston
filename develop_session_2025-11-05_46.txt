@@ -1,0 +1,1 @@
+Develop session timeout for refactor (legacy) - Implemented a new feature to enhance session timeout.
