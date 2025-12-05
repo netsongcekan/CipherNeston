@@ -1,0 +1,1 @@
+Remove build pipeline for bugfix (easy) - Implemented a new feature to enhance build pipeline.
