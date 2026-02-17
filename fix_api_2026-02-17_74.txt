@@ -1,0 +1,1 @@
+Fix API calls for synchronization (major) - Implemented a new feature to enhance API calls.
